@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-pydantic
-numpy
-pandas
-openpyxl
-joblib
-tensorflow-cpu==여기에_Colab_텐서플로_버전
-scikit-learn==여기에_Colab_사이킷런_버전
